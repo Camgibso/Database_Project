@@ -1,7 +1,7 @@
 /*###########################################################
-#	Authors: Cameron Gibson, Anish Chhetri, 				#
-#		Garret Mbaku, Jeremy Wenzel, Rhett Calvert			#
-#	Topic: Student Enrollment Database 						#
+#	Authors: Cameron Gibson, Anish Chhetri, 				
+#		Garret Mbaku, Jeremy Wenzel, Rhett Calvert			
+#	Topic: Student Enrollment Database 						
 ###########################################################*/
 
 --Create database and tables
